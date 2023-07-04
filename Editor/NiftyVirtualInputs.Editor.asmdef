@@ -1,0 +1,17 @@
+{
+    "name": "NiftyVirtualInputs.Editor",
+    "references": [
+        "GUID:90175120068f18e499cdad8d2665bb82"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,2 +1,2 @@
-# NiftyVirtualInputs
-Package for handling virtualize inputs on the new unity input system, like joysticks and on screen buttons
+# NiftyScriptableSet
+Unity Package to add scriptable sets that can create and store sub assets with multiple inheritance and have nice editor tools for working with them.
