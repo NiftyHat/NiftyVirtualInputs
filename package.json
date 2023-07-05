@@ -14,5 +14,11 @@
   },
   "dependencies": {
     "com.unity.inputsystem" : "1.0.2"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "On Screen Floating Joystick",
+      "description": "Example of a floating on screen joystick",
+      "path": "Samples~/FloatingOnScreenStick"
+    }]
 }
